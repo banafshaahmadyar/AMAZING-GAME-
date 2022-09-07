@@ -20,3 +20,17 @@ The rules are straightforward:
    
    
        ![image](https://user-images.githubusercontent.com/100950189/188866105-91ec1519-c94a-4506-b0c1-133133121e40.png)    
+
+## The Flow(chart) of ROCK_SCISSOR_PAPER
+      
+      Here’s a flowchart that describes a single game of rock paper scissors:
+      
+   ![image](https://user-images.githubusercontent.com/100950189/188866930-38114296-aa46-4e31-9cca-0368e08977b4.png)
+   
+   
+   ![image](https://user-images.githubusercontent.com/100950189/188867098-c66a1e2c-d630-4ecc-a946-76a20b5415f8.png)
+      
+      
+   ![image](https://user-images.githubusercontent.com/100950189/188867225-021f5cbe-920c-47c5-9d9b-03a2850cd30b.png)
+ 
+   
