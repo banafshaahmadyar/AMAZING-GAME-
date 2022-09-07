@@ -1,6 +1,6 @@
 ## ROCK...PAPER...SCISSOR
 
-       # What Is Rock Paper Scissors?
+       ** What Is Rock Paper Scissors?
        
 You may have played rock paper scissors before. 
 
