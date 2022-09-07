@@ -43,7 +43,7 @@ The rules are straightforward:
    ![image](https://user-images.githubusercontent.com/100950189/188869275-d4672bbb-ec35-437b-8462-597dbc055525.png)
    
    
- ## Take User Input
+ ## Take User Input and few times that user wants to paly game
  
    ![image](https://user-images.githubusercontent.com/100950189/188869873-f34c9f4f-87a1-468b-9683-b8806753afd1.png)
 
