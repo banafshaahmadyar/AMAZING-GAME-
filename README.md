@@ -23,7 +23,7 @@ The rules are straightforward:
 
 ## The Flow(chart) of ROCK_SCISSOR_PAPER
       
-      Here’s a flowchart that describes a single game of rock paper scissors:
+      Here’s flowchart of rock paper scissors game:
       
    ![image](https://user-images.githubusercontent.com/100950189/188867657-354e9c65-1cfd-4ca1-81eb-4dc386edcbe2.png)   
    
