@@ -25,12 +25,12 @@ The rules are straightforward:
       
       Here’s a flowchart that describes a single game of rock paper scissors:
       
-   ![image](https://user-images.githubusercontent.com/100950189/188866930-38114296-aa46-4e31-9cca-0368e08977b4.png)
+   ![image](https://user-images.githubusercontent.com/100950189/188867657-354e9c65-1cfd-4ca1-81eb-4dc386edcbe2.png)   
    
-   
-   ![image](https://user-images.githubusercontent.com/100950189/188867098-c66a1e2c-d630-4ecc-a946-76a20b5415f8.png)
+  ![image](https://user-images.githubusercontent.com/100950189/188867762-629a7e83-79e5-4289-95fc-bc13a652454c.png)      
       
-      
-   ![image](https://user-images.githubusercontent.com/100950189/188867225-021f5cbe-920c-47c5-9d9b-03a2850cd30b.png)
+  ![image](https://user-images.githubusercontent.com/100950189/188867879-0b258c47-f346-4d9d-afa7-b6aaab0243be.png)  
+  
+![image](https://user-images.githubusercontent.com/100950189/188868008-d66e69fb-2fa5-4b42-b10b-54e16c73e594.png)
  
    
