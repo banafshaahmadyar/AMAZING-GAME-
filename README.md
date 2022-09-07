@@ -39,6 +39,11 @@ The rules are straightforward:
       * You’re going to need to import the module you’ll use to simulate the computer’s choices:
       
    ![image](https://user-images.githubusercontent.com/100950189/188869275-d4672bbb-ec35-437b-8462-597dbc055525.png)
+   
+   
+ ## Take User Input
+ 
+   ![image](https://user-images.githubusercontent.com/100950189/188869873-f34c9f4f-87a1-468b-9683-b8806753afd1.png)
 
  
    
