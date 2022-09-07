@@ -19,5 +19,4 @@ The rules are straightforward:
    - Scissors cut paper.
    
    
-![image](https://user-images.githubusercontent.com/100950189/188865068-f0867eb0-b128-43f3-b277-21af3f5c8534.png)
-    
+       ![image](https://user-images.githubusercontent.com/100950189/188866105-91ec1519-c94a-4506-b0c1-133133121e40.png)    
