@@ -31,6 +31,8 @@ The rules are straightforward:
       
   ![image](https://user-images.githubusercontent.com/100950189/188867879-0b258c47-f346-4d9d-afa7-b6aaab0243be.png)  
   
+   - Rock Paper Scissors … Lizard Spock
+  
 ![image](https://user-images.githubusercontent.com/100950189/188868008-d66e69fb-2fa5-4b42-b10b-54e16c73e594.png)
 
 
@@ -48,4 +50,15 @@ The rules are straightforward:
  ## Make the Computer Choose
  
       I use random.choice() to have the computer randomly select between the actions:
+      
+   ![image](https://user-images.githubusercontent.com/100950189/188872639-d598ed4e-2e9a-4b8b-a03e-656a576c33ec.png)
+   
+ ## Show the WINNER
+ 
+      Now that both side made their choice, you just need a way to decide who wins.
+      Using an if … elif … else block, you can compare players’ choices and determine a winner:
+      
+   ![image](https://user-images.githubusercontent.com/100950189/188873100-1317ace5-a0bb-45ff-85f7-c9958427a4df.png)
+   
+
    
