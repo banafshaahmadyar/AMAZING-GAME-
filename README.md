@@ -60,5 +60,8 @@ The rules are straightforward:
       
    ![image](https://user-images.githubusercontent.com/100950189/188873100-1317ace5-a0bb-45ff-85f7-c9958427a4df.png)
    
+## AND FINAL RESULT
+
+  ![image](https://user-images.githubusercontent.com/100950189/188875608-95e2618a-6bee-49d5-a8f9-ea60e3bff3ba.png)
 
    
