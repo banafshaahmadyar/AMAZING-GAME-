@@ -45,5 +45,7 @@ The rules are straightforward:
  
    ![image](https://user-images.githubusercontent.com/100950189/188869873-f34c9f4f-87a1-468b-9683-b8806753afd1.png)
 
+ ## Make the Computer Choose
  
+      I use random.choice() to have the computer randomly select between the actions:
    
