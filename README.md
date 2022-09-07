@@ -17,4 +17,7 @@ The rules are straightforward:
    - Rock smashes scissors.
    - Paper covers rock.
    - Scissors cut paper.
+   
+   
+![image](https://user-images.githubusercontent.com/100950189/188865068-f0867eb0-b128-43f3-b277-21af3f5c8534.png)
     
