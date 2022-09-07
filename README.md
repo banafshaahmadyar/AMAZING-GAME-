@@ -32,5 +32,13 @@ The rules are straightforward:
   ![image](https://user-images.githubusercontent.com/100950189/188867879-0b258c47-f346-4d9d-afa7-b6aaab0243be.png)  
   
 ![image](https://user-images.githubusercontent.com/100950189/188868008-d66e69fb-2fa5-4b42-b10b-54e16c73e594.png)
+
+
+## Play a Single Game of Rock Paper Scissors in Python
+
+      * You’re going to need to import the module you’ll use to simulate the computer’s choices:
+      
+   ![image](https://user-images.githubusercontent.com/100950189/188869275-d4672bbb-ec35-437b-8462-597dbc055525.png)
+
  
    
